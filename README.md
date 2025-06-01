@@ -6,7 +6,7 @@ A modern, AI-powered React app that predicts Egyptian Premier League match outco
 
 ## 🌍 Live Demo
 
-> _(Optional: Add deployed link if hosting on Vercel, Netlify, or localhost preview)_
+> [_(Egyptian League Match Outcome Predictor)_](https://egyptsoccer.onrender.com)
 
 ---
 
